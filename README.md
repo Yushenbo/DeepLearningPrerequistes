@@ -1,0 +1,2 @@
+# DeepLearningPrerequistes
+Lecture source code 
